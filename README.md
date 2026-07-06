@@ -115,7 +115,7 @@ Tin tức |
 function gui(){
 
 alert("Cảm ơn bạn đã gửi ý kiến!");
-
+mỗi cá nhân chúng ta điều có một cơ thể khoẻ mạnh vì thế thể thao là một phần để giúp cơ thể chúng ta ngay càng phát triển và cuộc sống đầy nhiệt huyết
 }
 
 </script>
